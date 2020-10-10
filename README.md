@@ -9,6 +9,9 @@ The algorithm argument will be bfs, ids, astar1, or astar2. Finally the puzzle a
 Here is an example:
 
 python puzzlegame.py bfs "*" 1 3 4 2 5 7 8 6
+
 python puzzlegame.py ids "*" 1 3 4 2 5 7 8 6
+
 python puzzlegame.py astar1 "*" 1 3 4 2 5 7 8 6
+
 python puzzlegame.py astar2 "*" 1 3 4 2 5 7 8 6
